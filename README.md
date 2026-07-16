@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/tusharsahu3011" target="blank"><img src="https://img.shields.io/twitter/follow/tusharsahu3011?logo=twitter&style=for-the-badge" alt="tusharsahu3011" /></a> </p>
 
-- 🔭 I’m currently working on **Calculator Hub**
+- 🔭 I’m currently working on <a href="https://codertushar.in/" target="blank"> **Coder Tushar** </a>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Web Develo**
 
-- 📫 How to reach me **github.tusharsahu3011@gmail.com**
+- 📫 How to reach me **hello@codertushar.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
