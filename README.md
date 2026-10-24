@@ -1,108 +1,153 @@
-# Hey, I'm Tushar 👋
+<div align="center">
 
-### Developer · Builder · Learner · Creator
+<img src="./assets/profile-banner.svg" width="100%" alt="Tushar Kumar Sahu — Student, Developer, Builder" />
 
-I’m a student and developer passionate about building useful things with code, exploring new technologies, and sharing what I learn along the way.
+<br/>
 
-- 🚀 Building **[codertushar.in](https://codertushar.in)**
-- 💻 Exploring web development, full-stack technologies, and AI
-- 📚 Learning by building real-world projects
-- 🌱 Improving my skills one commit at a time
-- 🤝 Interested in open-source projects and collaborating with other developers
+<a href="https://github.com/codertushar-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Building+things+with+code;Learning+something+new+every+day;My+next+chapter+%40+codertushar-dev" alt="Developer typing animation" />
+</a>
 
-> **Build. Learn. Share.**
+<br/>
 
----
+<a href="https://github.com/codertushar-dev">
+  <img src="https://img.shields.io/badge/NEW%20DEV%20PROFILE-codertushar--dev-102A56?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="New developer profile" />
+</a>
+<a href="https://codertushar.in">
+  <img src="https://img.shields.io/badge/WEBSITE-codertushar.in-102A56?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" />
+</a>
 
-## 🌐 Connect With Me
+<br/><br/>
 
-<p align="left">
-  <a href="https://codertushar.in">
-    <img src="https://img.shields.io/badge/Website-codertushar.in-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.instagram.com/coder.tushar/">
-    <img src="https://img.shields.io/badge/Instagram-@coder.tushar-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<i>One journey. Many commits. Always building.</i>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `whoami`
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" alt="Programming languages" />
-</p>
+Hey! I'm **Tushar Kumar Sahu** 👋
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Web development technologies" />
-</p>
+I'm a student, developer, and technology enthusiast who enjoys learning how things work and turning ideas into projects.
 
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,prisma" alt="Development tools and technologies" />
-</p>
+This is my personal GitHub account, where part of my coding journey lives. I'm gradually moving my public development work to **[@codertushar-dev](https://github.com/codertushar-dev)**.
 
----
+- 💻 Exploring programming and web development
+- 🚀 Building projects and learning through practice
+- 🧠 Strengthening my development fundamentals
+- 🌱 Continuously learning and experimenting with technology
 
-## 🚀 Featured Project
-
-### [Coder Tushar — codertushar.in](https://codertushar.in)
-
-My personal developer platform, built to bring learning resources, programming notes, projects, blogs, and roadmaps together in one place.
-
-- 💻 **Focus:** Web development and programming
-- 📚 **Explore:** Notes, roadmaps, and learning resources
-- 🧩 **Discover:** Projects and developer content
-- 🌐 **Website:** [codertushar.in](https://codertushar.in)
+```javascript
+const tushar = {
+  name: "Tushar Kumar Sahu",
+  role: ["Student", "Developer", "Creator"],
+  interests: ["Programming", "Web Development", "AI"],
+  mindset: "Learn by building",
+  publicProfile: "codertushar-dev"
+};
+```
 
 ---
 
-## 📊 GitHub Statistics
+## `01` — What I'm About
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FF3B30"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
-## 🎯 What I'm Working Toward
-
-- Building projects that solve real problems
-- Strengthening my development fundamentals
-- Exploring full-stack development and AI
-- Contributing to the developer community
-- Turning ideas into useful products
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Development</h3>
+      <p>Exploring programming languages, web technologies, and tools that turn ideas into reality.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Continuous Learning</h3>
+      <p>Strengthening fundamentals, experimenting with new technologies, and learning through projects.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Building</h3>
+      <p>Creating practical projects and improving them one iteration at a time.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Sharing</h3>
+      <p>Working toward a developer platform that makes learning resources more accessible.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💬 A Little Reminder
+## `02` — Tech Stack
 
-> Don't just consume technology. Understand it, build with it, and share what you learn.
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-  <br />
-  <sub>Keep building. Keep learning. Keep shipping.</sub>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,tailwind,git,github,vscode&perline=6" alt="Programming languages and development tools" />
+
+</div>
+
+---
+
+## `03` — GitHub at a Glance
+
+<div align="center">
+
+<a href="https://github.com/tusharsahu3011">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tusharsahu3011&show_icons=true&hide_border=true&bg_color=080F20&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/tusharsahu3011">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsahu3011&layout=compact&hide_border=true&bg_color=080F20&title_color=60A5FA&text_color=CBD5E1" alt="Most used programming languages" />
+</a>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=tusharsahu3011&hide_border=true&background=080F20&ring=3B82F6&fire=60A5FA&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `04` — The Next Chapter
+
+<div align="center">
+
+### New identity. New projects. Same passion for building.
+
+My latest public development work is moving to **[@codertushar-dev](https://github.com/codertushar-dev)**.
+
+Follow my new profile for upcoming projects, experiments, and development updates.
+
+<a href="https://github.com/codertushar-dev">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20NEW%20PROFILE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore new developer profile" />
+</a>
+
+</div>
+
+---
+
+## `05` — Find Me Online
+
+<div align="center">
+
+<a href="https://codertushar.in">
+  <img src="https://img.shields.io/badge/WEBSITE-codertushar.in-102A56?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://www.instagram.com/coder.tushar/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-@coder.tushar-102A56?style=for-the-badge&logo=instagram&logoColor=60A5FA" alt="Instagram" />
+</a>
+<a href="https://github.com/codertushar-dev">
+  <img src="https://img.shields.io/badge/GITHUB-codertushar--dev-102A56?style=for-the-badge&logo=github&logoColor=white" alt="New developer profile" />
+</a>
+
+<br/><br/>
+
+> **Don't just consume technology. Understand it, build with it, and share what you learn.**
+
+<br/>
+
+<sub>Designed with curiosity · Built with code · Powered by consistency</sub>
+
+<br/>
+
+<sub>© Tushar Kumar Sahu</sub>
+
+</div>
